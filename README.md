@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Resume</title>
+	<title>Resume- Guillermo De Anda</title>
 	<style>
 		body {
 			font-family: Arial, sans-serif;
